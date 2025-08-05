@@ -7,7 +7,8 @@ plotly
 requests
 statsmodels
 scikit-learn
-statsmodels 
-python-dotenv 
+python-dotenv
 lightgbm
-cerebras
+joblib
+cerebras-cloud-sdk
+warnings-utils
