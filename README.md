@@ -81,5 +81,3 @@ RainFull/
 ## License
 [Specify your license here]
 
-## Contact
-[Your contact information] 
